@@ -1,6 +1,12 @@
 ---
 layout: page
-title: start from '19.12.24. 
-subtitle: NLP or else 
+title: About Me
+subtitle: 
 ---
 
+## - IMMA'
+  - Livin' Seoul, KOR (republic of)
+  - College dropped-out student
+
+## -I'm intereted in
+  - NLP 
